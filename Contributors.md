@@ -4,5 +4,6 @@
 - [Ayush Rana](https://github.com/ayushRana48)
 - [Yuna Shin](https://github.com/yunash1n)
 - [Gabi Mitchell](https://github.com/gabimitchell4)
+- [Adya-Chatterjee](https://github.com/adyac18)
 - [Kevin Polackal](https://github.com/kevin-polackal)
 
