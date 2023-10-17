@@ -6,4 +6,5 @@
 - [Gabi Mitchell](https://github.com/gabimitchell4)
 - [Adya-Chatterjee](https://github.com/adyac18)
 - [Kevin Polackal](https://github.com/kevin-polackal)
+- [Elisabeth Clements](https://github.com/elisabethclements)
 
