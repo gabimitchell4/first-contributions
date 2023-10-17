@@ -7,4 +7,5 @@
 - [Adya-Chatterjee](https://github.com/adyac18)
 - [Shivam Singhal](https://github.com/shivams0129)
 - [Kevin Polackal](https://github.com/kevin-polackal)
+- [Elisabeth Clements](https://github.com/elisabethclements)
 
